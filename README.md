@@ -278,22 +278,24 @@ Tight deadline delivery
 
 🧠 Engineering Principles
 
-┌──────────────────────────────────────────────────────┐
-│              SENIOR ANDROID ENGINEERING             │
-├──────────────────────────────────────────────────────┤
-│                                                      │
-│  Clean & Maintainable Code                           │
-│  SOLID & OOP Principles                               │
-│  MVVM & Clean Architecture                           │
-│  Secure Application Development                      │
-│  Performance Optimization                            │
-│  Reusable & Scalable Components                      │
-│  API-Driven Application Architecture                 │
-│  Testable Code                                       │
-│  Reliable Asynchronous Processing                    │
-│  Production-Focused Development                      │
-│                                                      │
-└──────────────────────────────────────────────────────┘
+<pre>
+┌──────────────────────────────────────────────────────────────┐
+│                  SENIOR ANDROID ENGINEERING                  │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│ 🏗️  Clean & Maintainable Code                                │
+│ 🧩  SOLID & OOP Principles                                   │
+│ 📐  MVVM & Clean Architecture                                │
+│ 🔐  Secure Application Development                           │
+│ ⚡  Performance Optimization                                 │
+│ ♻️  Reusable & Scalable Components                           │
+│ 🌐  API-Driven Application Architecture                      │
+│ 🧪  Testable Code                                            │
+│ 🧵  Reliable Asynchronous Processing                         │
+│ 🚀  Production-Focused Development                           │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+</pre>
 
 💼 Career Journey
 
