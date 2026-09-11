@@ -278,37 +278,35 @@ Tight deadline delivery
 
 🧠 Engineering Principles
 
-text
 ┌──────────────────────────────────────────────────────┐
-│                SENIOR ANDROID ENGINEERING             │
+│              SENIOR ANDROID ENGINEERING             │
 ├──────────────────────────────────────────────────────┤
 │                                                      │
-│  🏗️  Clean & Maintainable Code                      │
-│  🧩  SOLID & OOP Principles                          │
-│  📐  MVVM & Clean Architecture                       │
-│  🔐  Secure Application Development                  │
-│  ⚡  Performance Optimization                         │
-│  ♻️  Reusable & Scalable Components                  │
-│  🌐  API-Driven Application Architecture             │
-│  🧪  Testable Code                                   │
-│  🧵  Reliable Asynchronous Processing                │
-│  🚀  Production-Focused Development                  │
+│  Clean & Maintainable Code                           │
+│  SOLID & OOP Principles                               │
+│  MVVM & Clean Architecture                           │
+│  Secure Application Development                      │
+│  Performance Optimization                            │
+│  Reusable & Scalable Components                      │
+│  API-Driven Application Architecture                 │
+│  Testable Code                                       │
+│  Reliable Asynchronous Processing                    │
+│  Production-Focused Development                      │
 │                                                      │
 └──────────────────────────────────────────────────────┘
 
 💼 Career Journey
 
-text
 2019
-│
-├── Edusquadz Technology Pvt. LLP.
-│   └── Senior Android Developer
-│
-└── Tech Rudraum Pvt. Ltd.
-└── Senior Android Developer
-│
-▼
-2026
+ │
+ ├── Edusquadz Technology Pvt. LLP.
+ │   └── Senior Android Developer
+ │
+ └── Tech Rudraum Pvt. Ltd.
+     └── Senior Android Developer
+            │
+            ▼
+          2026
 
 🏢 Professional Experience
 
@@ -441,11 +439,10 @@ chain.
 
 Distribution Flow
 
-text
 Super Stockist
-↓
+      ↓
 Distributor
-↓
+      ↓
 Retailer
 
 Technology
@@ -530,27 +527,24 @@ https://play.google.com/store/apps/details?id=co.paige.vivfw
 
 🔐 Security & Fintech Experience
 
-One of my strongest areas of professional experience is building
-applications where security, device control, and financial workflows
-are critical.
+One of my strongest areas of professional experience is building applications where security, device control, and financial workflows are critical.
 
-text
-MOBILE SECURITY
-│
-┌─────────────┴─────────────┐
-│                           │
-DEVICE CONTROL              FINTECH
-│                           │
-┌────┼────┐                 ┌────┼────┐
-│    │    │                 │    │    │
-DPC  Kiosk Locking          EMI  License
-│    │    │                 │    │    │
-└────┴────┘                 └────┴────┘
-│                           │
-└─────────────┬─────────────┘
-│
-SECURE ANDROID
-APPLICATIONS
+                  MOBILE SECURITY
+                        │
+          ┌─────────────┴─────────────┐
+          │                           │
+     DEVICE CONTROL               FINTECH
+          │                           │
+     ┌────┼────┐                 ┌────┼────┐
+     │    │    │                 │    │    │
+    DPC  Kiosk Locking          EMI  License
+     │    │    │                 │    │    │
+     └────┴────┘                 └────┴────┘
+          │                           │
+          └─────────────┬─────────────┘
+                        │
+                  SECURE ANDROID
+                   APPLICATIONS
 
 📊 GitHub Analytics
 
@@ -567,7 +561,6 @@ APPLICATIONS
 
 📈 Development Philosophy
 
-text
 Code → Review → Test → Optimize → Secure → Deliver
 
     ↓
