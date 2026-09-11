@@ -1,19 +1,17 @@
 <p align="center">
 
-<img src="./banner.gif" width="100%" alt="Sourabh Solanki - Senior Android Developer" />{=html}
-
+<img src="./banner.gif" width="100%" alt="Sourabh Solanki - Senior Android Developer" />
 </p>
 
 <h1 align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=34&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=950&lines=Hi%2C+I'm+Sourabh+Solanki+%F0%9F%91%8B;Senior+Android+Developer;6.5%2B+Years+of+Android+Development;Kotlin+%7C+Java+%7C+Jetpack+Compose;MVVM+%7C+Clean+Architecture;Fintech+%7C+Security+%7C+Device+Management;Building+Secure+%26+Scalable+Mobile+Apps" alt="Typing SVG" />{=html}
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=34&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=950&lines=Hi%2C+I'm+Sourabh+Solanki+%F0%9F%91%8B;Senior+Android+Developer;6.5%2B+Years+of+Android+Development;Kotlin+%7C+Java+%7C+Jetpack+Compose;MVVM+%7C+Clean+Architecture;Fintech+%7C+Security+%7C+Device+Management;Building+Secure+%26+Scalable+Mobile+Apps" alt="Typing SVG" />
 </h1>
 
 <p align="center">
 
-<strong>{=html}Senior Android Developer • Kotlin • Java • Jetpack
-Compose • Clean Architecture</strong>{=html}
+<strong>Senior Android Developer • Kotlin • Java • Jetpack
+Compose • Clean Architecture</strong>
 
 </p>
 
@@ -25,14 +23,14 @@ business solutions and EdTech.
 
 </p>
 
-<br>{=html}
+<br>
 
 <p align="center">
 
-<a href="https://github.com/sourabhsolankiofficial-crypto/sourabhsolankiofficial-crypto">{=html}<img src="https://img.shields.io/badge/GitHub-Sourabh%20Solanki-181717?style=for-the-badge&logo=github&logoColor=white"/>{=html}</a>{=html}
-<a href="https://www.linkedin.com/in/sourabh-solanki-39641bb/">{=html}<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>{=html}</a>{=html}
-<a href="mailto:sourabhsolanki.offical@gmail.com">{=html}<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>{=html}</a>{=html}
-<img src="https://komarev.com/ghpvc/?username=sourabhsolankiofficial-crypto&style=for-the-badge&color=7F3FBF" alt="Profile Views"/>{=html}
+<a href="https://github.com/sourabhsolankiofficial-crypto/sourabhsolankiofficial-crypto"><img src="https://img.shields.io/badge/GitHub-Sourabh%20Solanki-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/sourabh-solanki-39641bb/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:sourabhsolanki.offical@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=sourabhsolankiofficial-crypto&style=for-the-badge&color=7F3FBF" alt="Profile Views"/>
 
 </p>
 
@@ -184,20 +182,18 @@ Tight deadline delivery
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/📱%20Android-Expertise-3DDC84?style=for-the-badge"/>{=html}
-<img src="https://img.shields.io/badge/🔐%20Mobile%20Security-Specialized-181717?style=for-the-badge"/>{=html}
-<img src="https://img.shields.io/badge/💳%20Fintech-Experience-FFB000?style=for-the-badge"/>{=html}
-<img src="https://img.shields.io/badge/🏢%20Enterprise%20Apps-Experience-6A1B9A?style=for-the-badge"/>{=html}
-
+<img src="https://img.shields.io/badge/📱%20Android-Expertise-3DDC84?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🔐%20Mobile%20Security-Specialized-181717?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/💳%20Fintech-Experience-FFB000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🏢%20Enterprise%20Apps-Experience-6A1B9A?style=for-the-badge"/>
 </p>
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/📲%20Device%20Management-DPC-FF6F00?style=for-the-badge"/>{=html}
-<img src="https://img.shields.io/badge/📍%20Device%20Tracking-Experience-009688?style=for-the-badge"/>{=html}
-<img src="https://img.shields.io/badge/📚%20EdTech-Experience-4285F4?style=for-the-badge"/>{=html}
-<img src="https://img.shields.io/badge/💼%20Business%20Apps-Experience-E91E63?style=for-the-badge"/>{=html}
-
+<img src="https://img.shields.io/badge/📲%20Device%20Management-DPC-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/📍%20Device%20Tracking-Experience-009688?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/📚%20EdTech-Experience-4285F4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/💼%20Business%20Apps-Experience-E91E63?style=for-the-badge"/>
 </p>
 
 🛠️ Technology Stack
@@ -206,92 +202,83 @@ Tight deadline delivery
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=kotlin,java,android,flutter" />{=html}
-
+<img src="https://skillicons.dev/icons?i=kotlin,java,android,flutter" />
 </p>
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Android%20SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>{=html}
-<img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"/>{=html}
-<img src="https://img.shields.io/badge/Android%20Jetpack-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>{=html}
-<img src="https://img.shields.io/badge/XML%20UI-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>{=html}
-
+<img src="https://img.shields.io/badge/Android%20SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android%20Jetpack-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/XML%20UI-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
 </p>
 
 🏗️ Architecture & Design
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/MVVM-Architecture-6A1B9A?style=for-the-badge"/>{=html}
-<img src="https://img.shields.io/badge/Clean%20Architecture-Scalable-4285F4?style=for-the-badge"/>{=html}
-<img src="https://img.shields.io/badge/OOP-Strong%20Foundation-FF6F00?style=for-the-badge"/>{=html}
-
+<img src="https://img.shields.io/badge/MVVM-Architecture-6A1B9A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Clean%20Architecture-Scalable-4285F4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OOP-Strong%20Foundation-FF6F00?style=for-the-badge"/>
 </p>
 
 ⚡ Concurrency & Reactive Programming
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Kotlin%20Coroutines-6DB33F?style=for-the-badge&logo=kotlin&logoColor=white"/>{=html}
-<img src="https://img.shields.io/badge/Flow-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>{=html}
-
+<img src="https://img.shields.io/badge/Kotlin%20Coroutines-6DB33F?style=for-the-badge&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flow-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
 </p>
 
 🌐 Backend Integration
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge"/>{=html}
-<img src="https://img.shields.io/badge/API%20Integration-4285F4?style=for-the-badge"/>{=html}
-
+<img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/API%20Integration-4285F4?style=for-the-badge"/>
 </p>
 
 💉 Dependency Injection
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Hilt-4285F4?style=for-the-badge&logo=android&logoColor=white"/>{=html}
-<img src="https://img.shields.io/badge/Dagger-FF6F00?style=for-the-badge"/>{=html}
-
+<img src="https://img.shields.io/badge/Hilt-4285F4?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dagger-FF6F00?style=for-the-badge"/>
 </p>
 
 🧪 Testing
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Unit%20Testing-6DB33F?style=for-the-badge"/>{=html}
-<img src="https://img.shields.io/badge/White%20Box%20Testing-4285F4?style=for-the-badge"/>{=html}
-<img src="https://img.shields.io/badge/Black%20Box%20Testing-181717?style=for-the-badge"/>{=html}
-
+<img src="https://img.shields.io/badge/Unit%20Testing-6DB33F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/White%20Box%20Testing-4285F4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Black%20Box%20Testing-181717?style=for-the-badge"/>
 </p>
 
 🧰 Tools & Development Practices
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,figma" />{=html}
-
+<img src="https://skillicons.dev/icons?i=git,github,figma" />
 </p>
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Agile-Development-2496ED?style=for-the-badge"/>{=html}
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>{=html}
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>{=html}
-
+<img src="https://img.shields.io/badge/Agile-Development-2496ED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
 🌐 Web Basics
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript" />{=html}
-
+<img src="https://skillicons.dev/icons?i=html,css,javascript" />
 </p>
 
 🧠 Engineering Principles
 
+text
 ┌──────────────────────────────────────────────────────┐
 │                SENIOR ANDROID ENGINEERING             │
 ├──────────────────────────────────────────────────────┤
@@ -311,16 +298,17 @@ Tight deadline delivery
 
 💼 Career Journey
 
+text
 2019
- │
- ├── Edusquadz Technology Pvt. LLP.
- │   └── Senior Android Developer
- │
- └── Tech Rudraum Pvt. Ltd.
-     └── Senior Android Developer
-            │
-            ▼
-          2026
+│
+├── Edusquadz Technology Pvt. LLP.
+│   └── Senior Android Developer
+│
+└── Tech Rudraum Pvt. Ltd.
+└── Senior Android Developer
+│
+▼
+2026
 
 🏢 Professional Experience
 
@@ -453,10 +441,11 @@ chain.
 
 Distribution Flow
 
+text
 Super Stockist
-      ↓
+↓
 Distributor
-      ↓
+↓
 Retailer
 
 Technology
@@ -545,53 +534,53 @@ One of my strongest areas of professional experience is building
 applications where security, device control, and financial workflows
 are critical.
 
-                  MOBILE SECURITY
-                        │
-          ┌─────────────┴─────────────┐
-          │                           │
-     DEVICE CONTROL              FINTECH
-          │                           │
-     ┌────┼────┐                 ┌────┼────┐
-     │    │    │                 │    │    │
-    DPC  Kiosk Locking          EMI  License
-     │    │    │                 │    │    │
-     └────┴────┘                 └────┴────┘
-          │                           │
-          └─────────────┬─────────────┘
-                        │
-                  SECURE ANDROID
-                   APPLICATIONS
+text
+MOBILE SECURITY
+│
+┌─────────────┴─────────────┐
+│                           │
+DEVICE CONTROL              FINTECH
+│                           │
+┌────┼────┐                 ┌────┼────┐
+│    │    │                 │    │    │
+DPC  Kiosk Locking          EMI  License
+│    │    │                 │    │    │
+└────┴────┘                 └────┴────┘
+│                           │
+└─────────────┬─────────────┘
+│
+SECURE ANDROID
+APPLICATIONS
 
 📊 GitHub Analytics
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sourabhsolankiofficial-crypto&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="49%" />{=html}
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sourabhsolankiofficial-crypto&theme=tokyonight&hide_border=true" width="49%" />{=html}
-
+<img src="https://github-readme-stats.vercel.app/api?username=sourabhsolankiofficial-crypto&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sourabhsolankiofficial-crypto&theme=tokyonight&hide_border=true" width="49%" />
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sourabhsolankiofficial-crypto&theme=tokyo-night&hide_border=true&area=true" width="95%" />{=html}
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sourabhsolankiofficial-crypto&theme=tokyo-night&hide_border=true&area=true" width="95%" />
 </p>
 
 📈 Development Philosophy
 
+text
 Code → Review → Test → Optimize → Secure → Deliver
 
-        ↓
+    ↓
 
 Build applications that are:
 
-     🚀 Fast
-     🔐 Secure
-     📐 Maintainable
-     📈 Scalable
-     🧪 Testable
-     👥 User-Friendly
-     💼 Production-Ready
+ 🚀 Fast
+ 🔐 Secure
+ 📐 Maintainable
+ 📈 Scalable
+ 🧪 Testable
+ 👥 User-Friendly
+ 💼 Production-Ready
 
 💪 Professional Strengths
 
@@ -663,9 +652,9 @@ problems.
 
 <p align="center">
 
-<a href="mailto:sourabhsolanki.offical@gmail.com">{=html}<img src="https://img.shields.io/badge/📧%20Email-Sourabh%20Solanki-EA4335?style=for-the-badge"/>{=html}</a>{=html}
-<a href="https://www.linkedin.com/in/sourabh-solanki-39641bb/">{=html}<img src="https://img.shields.io/badge/💼%20LinkedIn-Connect-0A66C2?style=for-the-badge"/>{=html}</a>{=html}
-<a href="https://github.com/sourabhsolankiofficial-crypto/sourabhsolankiofficial-crypto">{=html}<img src="https://img.shields.io/badge/💻%20GitHub-Follow-181717?style=for-the-badge"/>{=html}</a>{=html}
+<a href="mailto:sourabhsolanki.offical@gmail.com"><img src="https://img.shields.io/badge/📧%20Email-Sourabh%20Solanki-EA4335?style=for-the-badge"/></a>
+<a href="https://www.linkedin.com/in/sourabh-solanki-39641bb/"><img src="https://img.shields.io/badge/💼%20LinkedIn-Connect-0A66C2?style=for-the-badge"/></a>
+<a href="https://github.com/sourabhsolankiofficial-crypto/sourabhsolankiofficial-crypto"><img src="https://img.shields.io/badge/💻%20GitHub-Follow-181717?style=for-the-badge"/></a>
 
 </p>
 
@@ -688,6 +677,6 @@ architecture, security, performance and real-world product development
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00C2FF&height=120&section=footer" width="100%" />{=html}
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00C2FF&height=120&section=footer" width="100%" />
 </p>
+
