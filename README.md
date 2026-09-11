@@ -299,6 +299,7 @@ Tight deadline delivery
 
 💼 Career Journey
 
+<pre>
 2019
  │
  ├── Edusquadz Technology Pvt. LLP.
@@ -309,7 +310,8 @@ Tight deadline delivery
             │
             ▼
           2026
-
+</pre>
+ 
 🏢 Professional Experience
 
 🔵 Tech Rudraum Pvt. Ltd.
