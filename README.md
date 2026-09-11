@@ -1,89 +1,122 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00C2FF&height=180&section=header&text=Sourabh%20Solanki&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%" />
+
+<img src="./banner.gif" width="100%" alt="Sourabh Solanki - Senior Android Developer" />{=html}
+
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=32&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=950&lines=Hi%2C+I'm+Sourabh+Solanki+%F0%9F%91%8B;Senior+Android+Developer;6.5%2B+Years+of+Android+Development;Android+%7C+Java+%7C+Kotlin+%7C+Jetpack+Compose;Flutter+%7C+MVVM+%7C+Clean+Architecture;Building+High-Performance+Mobile+Applications" alt="Typing SVG" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=34&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=950&lines=Hi%2C+I'm+Sourabh+Solanki+%F0%9F%91%8B;Senior+Android+Developer;6.5%2B+Years+of+Android+Development;Kotlin+%7C+Java+%7C+Jetpack+Compose;MVVM+%7C+Clean+Architecture;Fintech+%7C+Security+%7C+Device+Management;Building+Secure+%26+Scalable+Mobile+Apps" alt="Typing SVG" />{=html}
+
 </h1>
 
-<p align="center"><strong>Senior Android Developer • Kotlin • Java • Jetpack Compose • Flutter • MVVM</strong></p>
-<p align="center">Building high-quality, scalable and secure mobile applications with strong problem-solving and team collaboration skills.</p>
+<p align="center">
+
+<strong>{=html}Senior Android Developer • Kotlin • Java • Jetpack
+Compose • Clean Architecture</strong>{=html}
+
+</p>
 
 <p align="center">
-<a href="mailto:sourabhsolanki.offical@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Experience-6.5%2B%20Years-00C2FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Role-Senior%20Android%20Developer-7F3FBF?style=for-the-badge"/>
+
+Building secure, scalable and high-performance mobile applications with
+real-world experience across fintech, enterprise, device management,
+business solutions and EdTech.
+
+</p>
+
+<br>{=html}
+
+<p align="center">
+
+<a href="https://github.com/sourabhsolankiofficial-crypto/sourabhsolankiofficial-crypto">{=html}<img src="https://img.shields.io/badge/GitHub-Sourabh%20Solanki-181717?style=for-the-badge&logo=github&logoColor=white"/>{=html}</a>{=html}
+<a href="https://www.linkedin.com/in/sourabh-solanki-39641bb/">{=html}<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>{=html}</a>{=html}
+<a href="mailto:sourabhsolanki.offical@gmail.com">{=html}<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>{=html}</a>{=html}
+<img src="https://komarev.com/ghpvc/?username=sourabhsolankiofficial-crypto&style=for-the-badge&color=7F3FBF" alt="Profile Views"/>{=html}
+
 </p>
 
 👨‍💻 About Me
 
-I'm Sourabh Solanki, a Senior Android Developer with 6.5+ years of experience in designing, developing, and maintaining high-performance mobile applications.
+I'm Sourabh Solanki, a Senior Android Developer with 6.5+ years
+of professional Android development experience.
 
-I have strong expertise in Kotlin, Java, Jetpack Compose, Flutter, MVVM, Clean Architecture, REST API integration, Coroutines, Flow, Hilt, Dagger, and Android Jetpack Components.
+I specialize in designing, developing, and maintaining
+high-performance, scalable, secure, and user-focused mobile
+applications.
 
-My experience includes building secure mobile and fintech solutions, device management systems, parental control applications, lead management solutions, license management platforms, and EdTech applications.
+My professional experience includes working on fintech solutions,
+secure device management systems, enterprise applications, lead
+management, digital wellbeing, parental control, device protection,
+software license management, and EdTech/coaching platforms.
 
-My Core Expertise
+I have strong expertise in:
 
 📱 Android Application Development
 
 💜 Kotlin & Java
 
-🎨 Jetpack Compose
-
-🦋 Flutter
+🎨 Jetpack Compose & XML UI
 
 🏗️ MVVM & Clean Architecture
 
-🔄 Coroutines & Flow
+⚡ Coroutines & Flow
 
 🌐 REST API Integration
 
 💉 Hilt & Dagger
 
-🔐 Secure Device Management
+🔐 Secure Mobile Applications
 
-⚡ Performance Optimization
+💳 Fintech & Finance-Based Applications
+
+📲 Device Management & DPC Applications
 
 🧪 Unit Testing
 
-🤝 Agile, Git & Jira
+🚀 Performance Optimization
 
-🎯 Why Work With Me?
+🤝 Agile Development
 
-<table><tr><td width="50%">
+🔀 Git & Jira
+
+🦋 Flutter
+
+🌐 HTML, CSS & JavaScript
+
+🎯 Why Hire Me?
+
+<table>
+
+<tr>
+
+<td width="50%">
 
 💼 Experience
 
 6.5+ years of Android development
 
-Senior Android Developer
+Senior Android Developer experience
 
 High-performance production applications
 
-Secure device management solutions
+Secure device-management experience
 
-Fintech-based mobile solutions
+Fintech and finance-based solutions
 
-EdTech application development
+</td>
 
-</td><td width="50%">
+<td width="50%">
 
-🧠 Technical Skills
+🧠 Engineering
 
-Android
-
-Kotlin
-
-Java
-
-Jetpack Compose
-
-Flutter
+Kotlin & Java
 
 MVVM
 
 Clean Architecture
+
+Jetpack Compose
 
 Coroutines & Flow
 
@@ -91,307 +124,505 @@ Hilt & Dagger
 
 REST APIs
 
-</td></tr><tr><td width="50%">
-
-🚀 Development Practices
-
-Agile Development
-
-Git
-
-Jira
-
 Unit Testing
 
-Performance Optimization
+</td>
 
-Secure Data Handling
+</tr>
 
-Scalable Application Development
+<tr>
 
-</td><td width="50%">
+<td width="50%">
+
+🔐 Specialized Experience
+
+Secure Android applications
+
+Device Policy Controller
+
+Kiosk mode
+
+Device locking
+
+Device tracking
+
+Fintech solutions
+
+EMI/device-control solutions
+
+License/key distribution
+
+</td>
+
+<td width="50%">
 
 🤝 Professional Strengths
 
 Strong OOP foundation
 
-Problem Solving
+Problem solving
 
-Team Collaboration
+Performance optimization
+
+Team collaboration
 
 Communication
 
-Quick Learning
+Quick learner
 
-High-pressure Environment
+High-pressure environments
 
-Tight Deadline Delivery
+Tight deadline delivery
 
-</td></tr></table>
+</td>
+
+</tr>
+
+</table>
+
+🏆 Domain Expertise
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/📱%20Android-Expertise-3DDC84?style=for-the-badge"/>{=html}
+<img src="https://img.shields.io/badge/🔐%20Mobile%20Security-Specialized-181717?style=for-the-badge"/>{=html}
+<img src="https://img.shields.io/badge/💳%20Fintech-Experience-FFB000?style=for-the-badge"/>{=html}
+<img src="https://img.shields.io/badge/🏢%20Enterprise%20Apps-Experience-6A1B9A?style=for-the-badge"/>{=html}
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/📲%20Device%20Management-DPC-FF6F00?style=for-the-badge"/>{=html}
+<img src="https://img.shields.io/badge/📍%20Device%20Tracking-Experience-009688?style=for-the-badge"/>{=html}
+<img src="https://img.shields.io/badge/📚%20EdTech-Experience-4285F4?style=for-the-badge"/>{=html}
+<img src="https://img.shields.io/badge/💼%20Business%20Apps-Experience-E91E63?style=for-the-badge"/>{=html}
+
+</p>
 
 🛠️ Technology Stack
 
-📱 Mobile Development
-
-<p align="center"><img src="https://skillicons.dev/icons?i=android,kotlin,java,flutter" /></p>
-
-🏗️ Architecture & Android
+📱 Android
 
 <p align="center">
-<img src="https://img.shields.io/badge/MVVM-Architecture-6A1B9A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Clean%20Architecture-Scalable-00C2FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Jetpack%20Compose-UI-7F52FF?style=for-the-badge"/>
+
+<img src="https://skillicons.dev/icons?i=kotlin,java,android,flutter" />{=html}
+
 </p>
 
-🔄 Concurrency & Dependency Injection
+<p align="center">
+
+<img src="https://img.shields.io/badge/Android%20SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>{=html}
+<img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"/>{=html}
+<img src="https://img.shields.io/badge/Android%20Jetpack-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>{=html}
+<img src="https://img.shields.io/badge/XML%20UI-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>{=html}
+
+</p>
+
+🏗️ Architecture & Design
 
 <p align="center">
-<img src="https://img.shields.io/badge/Coroutines-Concurrency-7F52FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Flow-Reactive-00C2FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Hilt-Dependency%20Injection-3DDC84?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Dagger-Dependency%20Injection-7F3FBF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/MVVM-Architecture-6A1B9A?style=for-the-badge"/>{=html}
+<img src="https://img.shields.io/badge/Clean%20Architecture-Scalable-4285F4?style=for-the-badge"/>{=html}
+<img src="https://img.shields.io/badge/OOP-Strong%20Foundation-FF6F00?style=for-the-badge"/>{=html}
+
+</p>
+
+⚡ Concurrency & Reactive Programming
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Kotlin%20Coroutines-6DB33F?style=for-the-badge&logo=kotlin&logoColor=white"/>{=html}
+<img src="https://img.shields.io/badge/Flow-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>{=html}
+
+</p>
+
+🌐 Backend Integration
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge"/>{=html}
+<img src="https://img.shields.io/badge/API%20Integration-4285F4?style=for-the-badge"/>{=html}
+
+</p>
+
+💉 Dependency Injection
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Hilt-4285F4?style=for-the-badge&logo=android&logoColor=white"/>{=html}
+<img src="https://img.shields.io/badge/Dagger-FF6F00?style=for-the-badge"/>{=html}
+
+</p>
+
+🧪 Testing
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Unit%20Testing-6DB33F?style=for-the-badge"/>{=html}
+<img src="https://img.shields.io/badge/White%20Box%20Testing-4285F4?style=for-the-badge"/>{=html}
+<img src="https://img.shields.io/badge/Black%20Box%20Testing-181717?style=for-the-badge"/>{=html}
+
+</p>
+
+🧰 Tools & Development Practices
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,figma" />{=html}
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Agile-Development-2496ED?style=for-the-badge"/>{=html}
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>{=html}
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>{=html}
+
 </p>
 
 🌐 Web Basics
 
-<p align="center"><img src="https://skillicons.dev/icons?i=html,css,javascript" /></p>
-
-🔧 Development Tools
-
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git" />
-<img src="https://img.shields.io/badge/Jira-Agile%20Development-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript" />{=html}
+
 </p>
 
-💼 Professional Experience
+🧠 Engineering Principles
+
+┌──────────────────────────────────────────────────────┐
+│                SENIOR ANDROID ENGINEERING             │
+├──────────────────────────────────────────────────────┤
+│                                                      │
+│  🏗️  Clean & Maintainable Code                      │
+│  🧩  SOLID & OOP Principles                          │
+│  📐  MVVM & Clean Architecture                       │
+│  🔐  Secure Application Development                  │
+│  ⚡  Performance Optimization                         │
+│  ♻️  Reusable & Scalable Components                  │
+│  🌐  API-Driven Application Architecture             │
+│  🧪  Testable Code                                   │
+│  🧵  Reliable Asynchronous Processing                │
+│  🚀  Production-Focused Development                  │
+│                                                      │
+└──────────────────────────────────────────────────────┘
+
+💼 Career Journey
+
+2019
+ │
+ ├── Edusquadz Technology Pvt. LLP.
+ │   └── Senior Android Developer
+ │
+ └── Tech Rudraum Pvt. Ltd.
+     └── Senior Android Developer
+            │
+            ▼
+          2026
+
+🏢 Professional Experience
 
 🔵 Tech Rudraum Pvt. Ltd.
 
 Senior Android Developer
-November 2022 – Present
 
-Developing and maintaining high-performance Android applications
-
-Working on secure device management and fintech-based solutions
-
-Collaborating with cross-functional teams in Agile environments
-
-Improving code quality and application performance
+November 2022 -- Present * Developing and maintaining
+high-performance Android applications * Working on secure device
+management and fintech-based solutions * Collaborating with
+cross-functional teams in Agile environments * Improving code quality
+and application performance
 
 🔵 Edusquadz Technology Pvt. LLP.
 
 Senior Android Developer
-July 2019 – November 2022
 
-Worked on Android application development and maintenance
+July 2019 -- November 2022 * Worked on Android application
+development and maintenance * Delivered features within tight deadlines
+* Built foundational expertise in Android development
 
-Delivered features within tight deadlines
+🚀 Real-World Project Portfolio
 
-Built foundational expertise in Android development
+🔐 AAtma / MTS App --- DPC Application
 
-🚀 Project Portfolio
+Device Policy Controller for Retailers
 
-🔐 AAtma/MTS App — DPC Application
+A device-management Android application designed for financed smartphone
+management.
 
-Device Policy Controller for retailers
+Key Capabilities
 
-Enabled financed smartphone management
+📱 Financed smartphone management
 
-Restricted factory reset without authorization
+🔒 Restricted factory reset without authorization
 
-Implemented kiosk mode for device locking
+🔐 Kiosk mode for device locking
 
-Technology: Android
+🛡️ Device policy control
 
-📊 R Connect
+⚙️ Technology: Android
 
-Lead management solution for businesses
+🤝 R Connect
 
-Tracks, organizes, and converts leads
+Lead Management Solution for Businesses
 
-Centralized platform for team collaboration
+A business lead-management solution designed to help organizations
+track, organize, and convert leads.
 
-Technology: Flutter
+Key Capabilities
 
-Android App
+📊 Lead tracking
 
-iOS App
+🗂️ Lead organization
+
+🎯 Lead conversion
+
+🤝 Centralized team collaboration
+
+🦋 Technology: Flutter
+
+Android:
+https://play.google.com/store/apps/details?id=com.rudraum.rconnect
+
+iOS: https://apps.apple.com/in/app/rudraum-connect/id6755989034
 
 🛡️ Rudraum Thumb2Thief (T2T)
 
-Mobile security solution
+Mobile Security Solution
 
-Captures intruder photo on failed unlock attempts
+A mobile security application designed to help track lost or stolen
+devices.
 
-Sends GPS location and details via email
+Key Capabilities
 
-Helps track lost or stolen devices
+📸 Captures intruder photo after failed unlock attempts
 
-Technology: Android
+📍 Sends GPS location and details via email
 
-Google Play
+🔎 Helps track lost or stolen devices
+
+🔐 Security-focused mobile workflow
+
+📱 Technology: Android
+
+Google Play:
+https://play.google.com/store/apps/details?id=com.rudraum.t2thief
 
 👨‍👩‍👧 Rudraum Family First
 
-Digital Wellbeing and Parental Control features
+Digital Wellbeing & Parental Control Application
 
-Remote image capture using front and rear cameras
+A device-management and family safety solution with remote monitoring
+and control capabilities.
 
-Real-time device location tracking
+Key Capabilities
 
-Authorized voice recording for parental safety use cases
+📸 Remote image capture using front/rear cameras
 
-Geofencing and safe-zone alerts
+📍 Real-time device location tracking
 
-Screen-time and device-usage management
+🎙️ Authorized voice recording
 
-App usage monitoring and application management
+🗺️ Geofencing and safe-zone alerts
 
-Remote device management
+⏱️ Screen-time and device-usage management
 
-Background services and Android system components
+📱 App usage monitoring and application management
 
-Secure communication and data handling
+🔐 Remote device management
 
-MVVM/Clean Architecture with Jetpack, Coroutines, Flow and Dependency Injection
+⚙️ Background services and Android system components
 
-Technology: Android
+🛡️ Secure communication and data handling
 
-Google Play
+🏗️ MVVM/Clean Architecture with Jetpack, Coroutines, Flow &
+Dependency Injection
+
+📱 Technology: Android
+
+Google Play:
+https://play.google.com/store/apps/details?id=com.rudraum.familyfirst
 
 🔑 Rudraum Key Distribution
 
-License/key transfer system
+License / Key Transfer System
 
-Supports distribution from super stockist → distributor → retailer
+A license and key distribution solution supporting the distribution
+chain.
 
-Technology: Android
+Distribution Flow
 
-Google Play
+Super Stockist
+      ↓
+Distributor
+      ↓
+Retailer
 
-🛠️ Rudraum Care
+Technology
 
-Extended warranty and device protection solution
+Android
 
-Covers damages and screen replacement
+Google Play:
+https://play.google.com/store/apps/details?id=com.rudraum.distribution
 
-Technology: Kotlin
+🛡️ Rudraum Care
 
-Google Play
+Extended Warranty & Device Protection Solution
 
-🔐 Rudraum FinSolve
+A device protection application focused on warranty and screen
+replacement.
 
-Platform for managing and activating software licenses
+Key Capabilities
 
-Designed for admins and retailers
+🛡️ Damage coverage
 
-Secure and controlled environment
+📱 Screen replacement support
 
-Technology: Android
+💜 Technology: Kotlin
 
-Google Play
+Google Play:
+https://play.google.com/store/apps/details?id=com.rudraum.rudraumcare.main.app
 
-🎓 EduSquadz Coaching & Learning Platform
+💳 Rudraum FinSolve
 
-Developed an EdTech/Coaching application for live and recorded video lectures
+Software License Management Platform
 
-Integrated live streaming and recorded video playback
+A secure platform for managing and activating software licenses.
 
-Implemented PDF notes, study materials and test series
+Key Capabilities
 
-Developed online tests and assessment functionality
+👨‍💼 Designed for administrators
 
-Implemented Batch Management System for teachers and students
+🏪 Designed for retailers
 
-Developed assignment creation, submission and tracking
+🔐 Secure and controlled environment
 
-Implemented Student Attendance Management System
+📱 Technology: Android
 
-Developed teacher-side management for students, batches, lectures, assignments, study materials, tests and attendance
+Google Play:
+https://play.google.com/store/apps/details?id=com.rudraum.finsolve
 
-Integrated REST APIs
+📚 EduSquadz Coaching & Learning Platform
 
-Followed MVVM/Clean Architecture with Kotlin, Coroutines, Flow, Android Jetpack and Dependency Injection
+EdTech / Coaching Application
 
-Technology: Android / Kotlin
+An education platform supporting live and recorded lectures, study
+materials, assessments and batch management.
 
-Kautilya Academy
+Key Capabilities
 
-EduSquadz App
+🎥 Live streaming and recorded video playback
 
-💡 Core Technical Skills
+📄 PDF notes and study materials
 
-ANDROID DEVELOPMENT
-        │
-        ├── Android
-        ├── Kotlin
-        ├── Java
-        ├── Jetpack Compose
-        ├── Flutter
-        ├── MVVM
-        └── Clean Architecture
+📝 Test series and online assessments
 
-CONCURRENCY
-        │
-        ├── Coroutines
-        └── Flow
+👥 Batch Management System
 
-DEPENDENCY INJECTION
-        │
-        ├── Hilt
-        └── Dagger
+📚 Assignment creation, submission and tracking
 
-BACKEND INTEGRATION
-        │
-        └── REST API Integration
+📋 Student Attendance Management System
 
-DEVELOPMENT PRACTICES
-        │
-        ├── Agile
-        ├── Git
-        └── Jira
+👨‍🏫 Teacher-side management
 
-TESTING
-        │
-        └── Unit Testing
-            ├── White Box
-            └── Black Box
+🌐 REST API integration
 
-WEB BASICS
-        │
-        ├── HTML
-        ├── CSS
-        └── JavaScript
+🏗️ MVVM/Clean Architecture with Kotlin, Coroutines, Flow, Android
+Jetpack & Dependency Injection
 
-OTHER EXPERTISE
-        │
-        ├── Performance Optimization
-        └── Secure Device Management Applications
+📱 Technology: Android / Kotlin
+
+Google Play:
+https://play.google.com/store/apps/details?id=pnp.com.kautilyaacademyapp
+
+Google Play:
+https://play.google.com/store/apps/details?id=co.paige.vivfw
+
+🔐 Security & Fintech Experience
+
+One of my strongest areas of professional experience is building
+applications where security, device control, and financial workflows
+are critical.
+
+                  MOBILE SECURITY
+                        │
+          ┌─────────────┴─────────────┐
+          │                           │
+     DEVICE CONTROL              FINTECH
+          │                           │
+     ┌────┼────┐                 ┌────┼────┐
+     │    │    │                 │    │    │
+    DPC  Kiosk Locking          EMI  License
+     │    │    │                 │    │    │
+     └────┴────┘                 └────┴────┘
+          │                           │
+          └─────────────┬─────────────┘
+                        │
+                  SECURE ANDROID
+                   APPLICATIONS
+
+📊 GitHub Analytics
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sourabhsolankiofficial-crypto&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="49%" />{=html}
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sourabhsolankiofficial-crypto&theme=tokyonight&hide_border=true" width="49%" />{=html}
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sourabhsolankiofficial-crypto&theme=tokyo-night&hide_border=true&area=true" width="95%" />{=html}
+
+</p>
+
+📈 Development Philosophy
+
+Code → Review → Test → Optimize → Secure → Deliver
+
+        ↓
+
+Build applications that are:
+
+     🚀 Fast
+     🔐 Secure
+     📐 Maintainable
+     📈 Scalable
+     🧪 Testable
+     👥 User-Friendly
+     💼 Production-Ready
 
 💪 Professional Strengths
 
-💡 Strong foundation in Object-Oriented Programming (OOP)
+💡 Strong foundation in Object-Oriented Programming
 
 🧠 Strong problem-solving ability
 
-🤝 Excellent team collaboration and communication skills
+⚡ Quick learner
 
-⚡ Ability to work efficiently in high-pressure environments
+🤝 Excellent team collaboration
 
-🚀 Quick learner
+💬 Strong communication skills
 
-⏱️ Comfortable working under tight deadlines
+🚀 Ability to work efficiently under pressure
 
-📈 Focused on high-quality and maintainable solutions
+⏱️ Comfortable working with tight deadlines
+
+📈 Focused on application scalability
+
+🔐 Strong focus on security
+
+⚙️ Strong focus on performance
+
+🧩 Comfortable working with cross-functional teams
 
 🎓 Education
 
-Bachelor of Engineering (B.E.)
+🎓 Bachelor of Engineering --- Computer Science
 
-Discipline: Computer Science
-Institution: Mahakal Institute of Technology, Ujjain, Madhya Pradesh
-Completion Year: 2014
-CGPA: 6.25
+Mahakal Institute of Technology, Ujjain, Madhya Pradesh 2014 CGPA:
+6.25
 
 🌐 Languages
 
@@ -399,51 +630,64 @@ CGPA: 6.25
 
 🇬🇧 English
 
-📫 Personal Details
+💼 Open To Opportunities
 
-Gender: Male
+I'm interested in opportunities where I can contribute my experience in
+Android development, mobile architecture, fintech, security, enterprise
+applications, device management, and business applications.
 
-Nationality: Indian
+Interested Roles
 
-Marital Status: Married
+👨‍💻 Senior Android Developer
 
-Languages Known: English and Hindi
+🚀 Lead Android Developer
 
-Date of Birth: 09/10/1992
+📱 Android Engineer
 
-Location: Indore, Madhya Pradesh, India
+🏗️ Mobile Application Engineer
 
-🔗 Let's Connect
+💜 Kotlin Developer
+
+👨‍💼 Android Technical Lead
+
+Interested Domains
+
+Fintech • Banking • Enterprise • Security • Device Management • SaaS •
+Business Applications • Mobile Platforms • EdTech
+
+🤝 Let's Build Something Great
+
+I'm always interested in challenging Android problems, modern mobile
+architecture, secure applications, and products that solve real-world
+problems.
 
 <p align="center">
-<a href="mailto:sourabhsolanki.offical@gmail.com"><img src="https://img.shields.io/badge/📧%20Email-Contact%20Me-EA4335?style=for-the-badge"/></a>
-<a href="https://www.linkedin.com/in/sourabh-solanki-39641bb/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/sourabhsolankiofficial-crypto/sourabhsolankiofficial-crypto"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<a href="mailto:sourabhsolanki.offical@gmail.com">{=html}<img src="https://img.shields.io/badge/📧%20Email-Sourabh%20Solanki-EA4335?style=for-the-badge"/>{=html}</a>{=html}
+<a href="https://www.linkedin.com/in/sourabh-solanki-39641bb/">{=html}<img src="https://img.shields.io/badge/💼%20LinkedIn-Connect-0A66C2?style=for-the-badge"/>{=html}</a>{=html}
+<a href="https://github.com/sourabhsolankiofficial-crypto/sourabhsolankiofficial-crypto">{=html}<img src="https://img.shields.io/badge/💻%20GitHub-Follow-181717?style=for-the-badge"/>{=html}</a>{=html}
+
 </p>
 
-📈 Development Philosophy
+⚡ Fun Fact
 
-Plan → Develop → Test → Optimize → Deliver
-
-        ↓
-
-Build applications that are:
-
-      🚀 Scalable
-      ⚡ High-Performance
-      🧩 Maintainable
-      📱 User-Friendly
-      🔐 Reliable
-      💼 Production-Ready
+I enjoy building real-world mobile applications that solve practical
+problems --- from fintech and secure device management to lead
+management, parental control, device protection, license management
+and EdTech platforms.
 
 <p align="center">
 
 ⭐ Thanks for visiting my profile!
 
-If you're looking for an experienced Android Developer with strong technical, problem-solving and collaboration skills — let's connect.
+If you're looking for a Senior Android Developer who cares about
+architecture, security, performance and real-world product development
+--- let's connect.
 
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00C2FF&height=120&section=footer" width="100%" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00C2FF&height=120&section=footer" width="100%" />{=html}
+
 </p>
